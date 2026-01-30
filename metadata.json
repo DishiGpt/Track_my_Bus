@@ -1,0 +1,7 @@
+{
+  "name": "UdaipurLink - City Bus Tracking System",
+  "description": "A real-time bus tracking application for Udaipur city, featuring driver geolocation broadcasting and a live map for tourists and locals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
